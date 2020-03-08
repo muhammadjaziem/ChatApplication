@@ -1,3 +1,6 @@
+
+Hello everyone. This is a chat application made from Vue.js (front-end) and Firebase (database).
+
 # Firebase - Vue Chat Application
 
 ## Project setup

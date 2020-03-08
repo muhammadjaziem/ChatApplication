@@ -164,7 +164,7 @@ methods:{
       this.messages = allMessages;
 
       setTimeout(()=>{
-      this.scrollToBottom():
+      this.scrollToBottom();
       },1000);
     })
   }
